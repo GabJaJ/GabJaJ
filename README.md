@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GabJaJ
-- 👀 I’m interested in share knowledge
-- 🌱 I’m currently learning all about this
+- 🔎 I’m interested in share knowledge
+- 💻 I’m currently learning all about this
 - 📫 How to reach me: gabrieljaj@gmail.com
 
 <!---
