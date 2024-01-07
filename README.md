@@ -9,7 +9,7 @@
 - 
 - 📫  How to reach me: gabrieljaj@gmail.com
 - 
-- 🌱  Half way in the University Technician in Programming (UTN - Argentina) 
+- 👨‍🎓 Universidad Tecnologica Nacional (UTN) - Argentina
 -              /- HTML - CSS - JS - Python - Java - MySQL -/
 -              
 - 👨‍💻 All my proyects abailables: www.github/Gabjaj
