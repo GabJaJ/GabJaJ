@@ -5,7 +5,7 @@
 - 
 - 🔎  I’m interested in share knowledge!
 - 
-- 💻  I’m currently learning all about this and wanna improve abilities. 
+- 💻  Always learning new ways to improve my skills. 
 - 
 - 📫  How to reach me: gabrieljaj@gmail.com
 - 
