@@ -1,7 +1,11 @@
                          👋  Hi, I’m Gabriel Juhasz - @GabJaJ
                                 FullStack Developer Student
                          
-- Stack of preference: Python, Java, JavaScript, SQL, C#, React, NextJS, Redux...
+- Stack of preference: MERN - PERN // 
+-
+- Python, Java, JavaScript, SQL, C#, React, NodeJS, Mongo db, NextJS, Redux...
+-
+-  🌎Web 3 Enthusiast.
 - 
 - 🔎  I’m interested in share knowledge!
 - 
