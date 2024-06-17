@@ -5,7 +5,7 @@
 -
 - Python, Java, JavaScript, SQL, C#, React, NodeJS, Mongo db, NextJS, Redux...
 -
--  🌎Web 3 Enthusiast.
+-  🌎Web 3 Enthusiast - Solidity - Rust 
 - 
 - 🔎  I’m interested in share knowledge!
 - 
