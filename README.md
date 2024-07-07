@@ -5,6 +5,8 @@
 -
 - Python, Java, JavaScript, SQL, C#, React, NodeJS, Mongo db, NextJS, Redux...
 -
+- Google Clouid Storage - BigQuery
+-
 -  🌎Web 3 Enthusiast - Solidity - Rust 
 - 
 - 🔎  I’m interested in share knowledge!
