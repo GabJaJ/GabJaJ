@@ -1,13 +1,13 @@
                          👋  Hi, I’m Gabriel Juhasz - @GabJaJ
                                 FullStack Developer Student
                          
+-  🌎Web 3 - Solidity - Rust Enthusiast 
+-
 - Stack of preference: MERN - PERN // 
 -
 - Python, Java, JavaScript, SQL, C#, React, NodeJS, Mongo db, NextJS, Redux...
 -
 - Google Clouid Storage - BigQuery
--
--  🌎Web 3 Enthusiast - Solidity - Rust 
 - 
 - 🔎  I’m interested in share knowledge!
 - 
