@@ -5,9 +5,9 @@
 -
 - Stack of preference: MERN - PERN // 
 -
-- Python, Java, JavaScript, SQL, C#, React, NodeJS, Mongo db, NextJS, Redux...
+- Python, Java, JavaScript, SQL, C#, React, NodeJS, Mongo db, PostgreesQL, NextJS, Redux...
 -
-- Google Clouid Storage - BigQuery
+- Google Cloud Storage - BigQuery
 - 
 - 🔎  I’m interested in share knowledge!
 - 
